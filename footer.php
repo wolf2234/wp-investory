@@ -30,7 +30,7 @@
             <div class="col-lg-4">
                 <div class="copy">
                     <p>Copyright @ 2014-<?php echo date('Y'); ?></p>
-                    <a href="#" class="footer-policy-link">Политика конфиденциальности</a>
+                    <a href="#" class="footer-policy-link">Privacy Policy</a>
                     <small>
                     <?php echo the_field('law_text', 19); ?>
                     </small>
@@ -94,13 +94,13 @@
     
             <div class="col-lg-4">
                 <ul class="footer-menu">
-                    <li><a href="#">Земля</a></li>
-                    <li><a href="#">Жилая недвижемость</a></li>
-                    <li><a href="#">Коммерческая недвижимость</a></li>
-                    <li><a href="#">Новостройки</a></li>
-                    <li><a href="#">Дова/Коттеджи</a></li>
-                    <li><a href="#">Строительство</a></li>
-                    <li><a href="#">Аренда</a></li>
+                    <li><a href="#">Land</a></li>
+                    <li><a href="#">Residential real estate</a></li>
+                    <li><a href="#">Commercial real estate</a></li>
+                    <li><a href="#">New buildings</a></li>
+                    <li><a href="#">Dova/Cottages</a></li>
+                    <li><a href="#">Construction</a></li>
+                    <li><a href="#">Rent</a></li>
                 </ul>
             </div>
             <!-- /.col-md -->

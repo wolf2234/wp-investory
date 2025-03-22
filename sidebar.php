@@ -1,6 +1,6 @@
 <div class="left-sidebar">
     <div class="left-sidebar-btn">
-        Категории
+        Categories
     </div>
 
 	<ul class="left-sidebar-menu">
